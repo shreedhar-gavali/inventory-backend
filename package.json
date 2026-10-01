@@ -1,0 +1,16 @@
+{
+  "name": "inventory",
+  "version": "1.0.0",
+  "description": "inventory management ",
+  "keywords": [
+    "backend",
+    "javascript"
+  ],
+  "license": "ISC",
+  "author": "shreedhar gavali",
+  "type": "node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
